@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LakshanShridhar
+- 👀 I specialize in Python and have experience with Java.
+- 🌱 I’m currently refining my expertise in AI and software development.
+- 💻 I enjoy building projects like personalized AI assistants and interactive games, including a custom Pong game.
+- 📫 Feel free to connect via GitHub.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love applying code to solve real-world problems in creative ways!
